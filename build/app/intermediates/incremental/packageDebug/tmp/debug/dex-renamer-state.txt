@@ -1,4 +1,4 @@
-#Sat Mar 07 19:09:38 BRT 2020
+#Sat Mar 07 19:58:21 BRT 2020
 base.0=C\:\\Users\\marin\\Documents\\Flutter Apps\\calculadora_imc\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
